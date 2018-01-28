@@ -1,0 +1,1 @@
+let genericList: Array<number> = [1,2,3];
