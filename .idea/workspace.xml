@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbc9684c-487a-4eaf-9f71-273eeaeacb48" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS1/switch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS3/fucntions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS3/nestedScoup1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS3/testJs3.html" />
+    <list default="true" id="dbc9684c-487a-4eaf-9f71-273eeaeacb48" name="Default" comment="change structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/jsPart/cycle-while-1.js" afterPath="$PROJECT_DIR$/JS1/cycle-while-1.js" />
-      <change beforePath="$PROJECT_DIR$/jsPart/starter.html" afterPath="$PROJECT_DIR$/JS1/starter.html" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/arrayProp.js" afterPath="$PROJECT_DIR$/Javascript/DataStructure/arrayProp.js" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/dataStructure.html" afterPath="$PROJECT_DIR$/Javascript/DataStructure/dataStructure.html" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/objectSample.js" afterPath="$PROJECT_DIR$/Javascript/DataStructure/objectSample.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/countBs.js" afterPath="$PROJECT_DIR$/Javascript/Functions/countBs.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/evenRecursion.js" afterPath="$PROJECT_DIR$/Javascript/Functions/evenRecursion.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/farmInventory.js" afterPath="$PROJECT_DIR$/Javascript/Functions/farmInventory.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/fucntions.js" afterPath="$PROJECT_DIR$/Javascript/Functions/fucntions.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/minimum.js" afterPath="$PROJECT_DIR$/Javascript/Functions/minimum.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/nestedScoup1.js" afterPath="$PROJECT_DIR$/Javascript/Functions/nestedScoup1.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/printZeroPaddedWithLabel.js" afterPath="$PROJECT_DIR$/Javascript/Functions/printZeroPaddedWithLabel.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/recursiveSum.js" afterPath="$PROJECT_DIR$/Javascript/Functions/recursiveSum.js" />
+      <change beforePath="$PROJECT_DIR$/Functions/testJs3.html" afterPath="$PROJECT_DIR$/Javascript/Functions/testJs3.html" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/cycle-while-1.js" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/cycle-while-1.js" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/forCycle.js" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/forCycle.js" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/starter.html" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/starter.html" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/structures.js" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/structures.js" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/switch.js" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/switch.js" />
+      <change beforePath="$PROJECT_DIR$/ProgrammStructure/test.html" afterPath="$PROJECT_DIR$/Javascript/ProgrammStructure/test.html" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/Person.js" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Person.js" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/Person.ts" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Person.ts" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/README.md" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/README.md" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/Student.js" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Student.js" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/Student.ts" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Student.ts" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter1.js" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter1.js" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter1.ts" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter1.ts" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter2.js" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter2.js" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter2.ts" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter2.ts" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter3.js" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter3.js" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/greeter3.ts" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/greeter3.ts" />
+      <change beforePath="$PROJECT_DIR$/TSfifeMinTutor/launch.html" afterPath="$PROJECT_DIR$/TypeScript/TSfifeMinTutor/launch.html" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Array.js" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Array.js" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Array.ts" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Array.ts" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Enum.js" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Enum.js" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Enum.ts" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Enum.ts" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/GenericArray.js" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/GenericArray.js" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/GenericArray.ts" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/GenericArray.ts" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/TestHanbook.html" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/TestHanbook.html" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Tuple.js" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Tuple.js" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/Tuple.ts" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/Tuple.ts" />
+      <change beforePath="$PROJECT_DIR$/TsHanbook/BasicTypes/tst.js" afterPath="$PROJECT_DIR$/TypeScript/TsHanbook/BasicTypes/tst.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,38 +55,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="testJs3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS3/testJs3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fucntions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS3/fucntions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nestedScoup1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS3/nestedScoup1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +64,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>b</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,8 +81,19 @@
         <option value="$PROJECT_DIR$/JS1/switch.js" />
         <option value="$PROJECT_DIR$/JS1/starter.html" />
         <option value="$PROJECT_DIR$/JS3/fucntions.js" />
-        <option value="$PROJECT_DIR$/JS3/testJs3.html" />
         <option value="$PROJECT_DIR$/JS3/nestedScoup1.js" />
+        <option value="$PROJECT_DIR$/JS3/farmInventory.js" />
+        <option value="$PROJECT_DIR$/JS3/printZeroPaddedWithLabel.js" />
+        <option value="$PROJECT_DIR$/JS3/testJs3.html" />
+        <option value="$PROJECT_DIR$/JS3/recursiveSum.js" />
+        <option value="$PROJECT_DIR$/Functions/minimum.js" />
+        <option value="$PROJECT_DIR$/Functions/EvenRecursion.js" />
+        <option value="$PROJECT_DIR$/Functions/evenRecursion.js" />
+        <option value="$PROJECT_DIR$/Functions/countBs.js" />
+        <option value="$PROJECT_DIR$/Functions/testJs3.html" />
+        <option value="$PROJECT_DIR$/DataStructure/arrayProp.js" />
+        <option value="$PROJECT_DIR$/DataStructure/dataStructure.html" />
+        <option value="$PROJECT_DIR$/DataStructure/objectSample.js" />
       </list>
     </option>
   </component>
@@ -106,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,26 +132,12 @@
               <item name="TS" type="b2602c69:ProjectViewProjectNode" />
               <item name="TS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TS" type="462c0819:PsiDirectoryNode" />
-              <item name="JS2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TS" type="462c0819:PsiDirectoryNode" />
-              <item name="JS3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TS" type="462c0819:PsiDirectoryNode" />
-              <item name="TSfifeMinTutor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,11 +146,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JS3" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TypeScript" />
+      <recent name="$PROJECT_DIR$/Javascript" />
+      <recent name="$PROJECT_DIR$/ProgrammStructure" />
       <recent name="$PROJECT_DIR$/TSfifeMinTutor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataStructure" />
+      <recent name="$PROJECT_DIR$/JS3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,22 +192,53 @@
       <updated>1516812357004</updated>
       <workItem from="1516812358208" duration="639000" />
       <workItem from="1517210317645" duration="782000" />
-      <workItem from="1517493828856" duration="6048000" />
+      <workItem from="1517493828856" duration="7893000" />
+      <workItem from="1517837945767" duration="2928000" />
+      <workItem from="1517914777496" duration="8647000" />
     </task>
+    <task id="LOCAL-00001" summary="add function theme part 1">
+      <created>1517503739187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517503739187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add function theme part 1">
+      <created>1517847133207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517847133208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change structure">
+      <created>1517915456425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517915456425</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change structure and add new examples">
+      <created>1518085069800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518085069800</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7469000" />
+    <option name="totallyTimeSpent" value="20889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1676" y="-25" width="1688" height="1078" extended-state="6" />
+    <frame x="1680" y="25" width="1688" height="1078" extended-state="6" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2100181" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3085221" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3085221" sideWeight="0.50211227" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3085221" sideWeight="0.49788776" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34982333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -246,100 +285,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add function theme part 1" />
+    <MESSAGE value="change structure" />
+    <MESSAGE value="change structure and add new examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="change structure and add new examples" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Javascript/Functions/printZeroPaddedWithLabel.js</url>
+          <line>3</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS1/starter.html">
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/testJs3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/launch.html">
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/printZeroPaddedWithLabel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/Student.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS1/cycle-while-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/Person.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/Person.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/Student.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TSfifeMinTutor/launch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS1/cycle-while-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS1/switch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS1/starter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS3/testJs3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS3/fucntions.js">
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/fucntions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -347,11 +328,274 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS3/nestedScoup1.js">
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/nestedScoup1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/farmInventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/recursiveSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/testJs3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/printZeroPaddedWithLabel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/fucntions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/nestedScoup1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/farmInventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/recursiveSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/testJs3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/fucntions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/nestedScoup1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/ProgrammStructure/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/launch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Student.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/ProgrammStructure/cycle-while-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Person.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Person.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/Student.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeScript/TSfifeMinTutor/launch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/ProgrammStructure/cycle-while-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/ProgrammStructure/switch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/ProgrammStructure/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/printZeroPaddedWithLabel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/farmInventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/nestedScoup1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/fucntions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/recursiveSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/minimum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/evenRecursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/countBs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/Functions/testJs3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/DataStructure/arrayProp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/DataStructure/dataStructure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/DataStructure/objectSample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
