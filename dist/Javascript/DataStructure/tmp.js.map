@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../Javascript/DataStructure/tmp.js"],"names":["console","log","Math","round"],"mappings":";;AAAAA,QAAQC,GAAR,CAAYC,KAAKC,KAAL,CAAW,IAAE,CAAb,CAAZ","file":"tmp.js","sourcesContent":["console.log(Math.round(4/2))"]}
