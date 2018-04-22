@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../TypeScript/Basarat/LetScope.js"],"names":["foo","console","log"],"mappings":";;AAAA,IAAIA,MAAM,GAAV;AACA,IAAI,IAAJ,EAAU;AACN,QAAIA,MAAM,GAAV;AACH;AACDC,QAAQC,GAAR,CAAYF,GAAZ,E,CAAkB","file":"LetScope.js","sourcesContent":["var foo = 123;\nif (true) {\n    var foo = 456;\n}\nconsole.log(foo); // 456"]}
