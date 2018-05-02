@@ -37,7 +37,7 @@ function addmg() {
 }
 
 function init() {
-    return elem = ["бутс.png", "шуз.png", "белт.png"]
+    return elem = ["маус.png", "лег.png","хед.png","ні.jpeg","хенд.png","арм.jpeg"];
 }
 
 function addHint() {
