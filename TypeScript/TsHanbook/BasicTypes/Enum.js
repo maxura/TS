@@ -1,8 +1,9 @@
 var Color;
 (function (Color) {
-    Color[Color["RED"] = 1] = "RED";
-    Color[Color["GREEN"] = 2] = "GREEN";
-    Color[Color["BLUE"] = 3] = "BLUE";
+    Color[Color["Red"] = 1] = "Red";
+    Color[Color["Green"] = 2] = "Green";
+    Color[Color["Blue"] = 3] = "Blue";
 })(Color || (Color = {}));
-var colorName = Color[2];
-console.log(colorName);
+//let colorName: string = Color[2]
+var c = Color.Green;
+console.log(c);

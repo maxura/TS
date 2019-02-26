@@ -1,3 +1,5 @@
 var x;
 x = ['hello', 10];
-console.log(x[0].substring(1));
+x[3] = "world";
+x[6]=true;
+console.log(x[6]);
